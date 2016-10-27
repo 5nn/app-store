@@ -11,4 +11,8 @@
 1. 选中你的项目，选中`project->code sign`，选择 `profile...`
 2. x选择xcode menu的 `Product--Archive`，连接真机打包，一路点击下去即可
 
-最后添加几个图，用于日后回忆
+##最后添加几个图，用于日后回忆
+
+![img1](https://github.com/5nn/app-store/blob/master/2.png)
+![img2](https://github.com/5nn/app-store/blob/master/3.png)
+![img3](https://github.com/5nn/app-store/blob/master/4.png)
